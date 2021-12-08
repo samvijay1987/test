@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14201" started-at="2021-12-08T01:59:32Z" finished-at="2021-12-08T01:59:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14201" started-at="2021-12-08T01:59:32Z" finished-at="2021-12-08T01:59:46Z">
+      <class name="com.vani.TestProject.TestNGMavenExample">
+        <test-method status="PASS" signature="LaunchURL()[pri:0, instance:com.vani.TestProject.TestNGMavenExample@55f3ddb1]" name="LaunchURL" duration-ms="14164" started-at="2021-12-08T01:59:32Z" finished-at="2021-12-08T01:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+      </class> <!-- com.vani.TestProject.TestNGMavenExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
